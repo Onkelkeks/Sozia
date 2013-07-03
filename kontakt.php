@@ -225,7 +225,7 @@ return $retVal;
 <tr>
 
 <td>
-<input style="width:150px" hidden name="robotest" type="text" id="robotest" class="robotest"  <?php echo $robotest; ?> />
+<input style="width:150px" type="hidden" name="robotest" type="text" id="robotest" class="robotest"  <?php echo $robotest; ?> />
 </td>
 </tr>
 
