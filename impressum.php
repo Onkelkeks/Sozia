@@ -8,7 +8,7 @@ Verantwortlich für den Inhalt dieser Webseite:<p>
 Evang Sozialstation Pfersee-Kriegshaber<br>
 Jakobine-Lauber-Str. 5<br>
 86157 Augsburg<p>
-h.lischka@sanktpaul.de<br>
+evang-sozialstation@sanktpaul.de <br>
 Tel: (08 21) 22 81 88-0
 
 <p>

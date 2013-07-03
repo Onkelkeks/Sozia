@@ -1,1 +1,2 @@
-
+<div class="aktuelles_titel"><h3>Sommerfest</h3></div>
+<div class="aktuelles_content">Am Samstag 06.07.2013 um 19.00 Uhr in der St. Thomaskirche (Kriegshaber), es würde uns sehr freuen Sie an diesem Abend begrüßen zu dürfen</div>
